@@ -10,7 +10,8 @@ const discountCodes = [
     page: 'https://verifiervoiture.fr/code-promo-carvertical/',
     title: 'Code Promo carVertical',
     button: 'Code Promo carVertical',
-    discount_code: 'VERIFIERVOITURE'
+    discount_code: 'VERIFIERVOITURE',
+    percentage: '20%'
   }
 ];
 

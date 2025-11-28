@@ -36,9 +36,9 @@ console.log(codes)
 
 ## Available Discount Codes
 
-| Country | Website | Page | Title | Button | Discount Code |
-|---------|---------|------|-------|--------|---------------|
-| France | [verifiervoiture.fr](https://verifiervoiture.fr/) | [code-promo-carvertical](https://verifiervoiture.fr/code-promo-carvertical/) | Code Promo carVertical | Code Promo carVertical | VERIFIERVOITURE |
+| Country | Website | Page | Title | Button | Discount Code | Percentage |
+|---------|---------|------|-------|--------|---------------|------------|
+| France | [verifiervoiture.fr](https://verifiervoiture.fr/) | [code-promo-carvertical](https://verifiervoiture.fr/code-promo-carvertical/) | Code Promo carVertical | Code Promo carVertical | VERIFIERVOITURE | 20% |
 
 ## About
 
