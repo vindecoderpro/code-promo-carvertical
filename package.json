@@ -1,0 +1,28 @@
+{
+  "name": "code-promo-carvertical",
+  "version": "1.0.0",
+  "description": "Code Promo carVertical - Discount codes for carVertical VIN decoder services in France",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "carvertical",
+    "code promo",
+    "code reduction",
+    "discount",
+    "coupon",
+    "promo code",
+    "vin decoder",
+    "vehicle history",
+    "verifiervoiture",
+    "france"
+  ],
+  "author": "vindecoderpro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vindecoderpro/code-promo-carvertical"
+  }
+}
+
